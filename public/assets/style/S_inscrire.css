@@ -1,0 +1,25 @@
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    margin: 0;
+}
+
+.img {
+    max-width: 150px;
+    margin: 0 auto;
+}
+
+form {
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+footer {
+    background-color: #ef9f34;
+    color: #ffffff;
+    padding: 15px;
+    text-align: center;
+    font-size: 14px;
+    margin-top: auto;
+}
